@@ -88,7 +88,6 @@ public class CinZodyagıHesaplama {
 
 
 
-    } hocam bu javanın
+    }
 
 }
- hocam bu kırmızı ya ondan olabilir mi mesala tn ng yesil direk githuba eklenmis gibi yani
