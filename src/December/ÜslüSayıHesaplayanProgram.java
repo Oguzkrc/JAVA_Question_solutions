@@ -24,7 +24,6 @@ public class ÜslüSayıHesaplayanProgram {
         }
         System.out.println("SONUC : " + üsthesaplama );
 
-
     }
 }
 
